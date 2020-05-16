@@ -3,8 +3,8 @@ package data
 import (
 	"fmt"
 
-	"github.com/WatchBeam/amf0"
-	"github.com/WatchBeam/rtmp/chunk"
+	"github.com/kris-nova/amf0"
+	"github.com/kris-nova/rtmp/chunk"
 )
 
 var (

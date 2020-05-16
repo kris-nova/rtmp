@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/WatchBeam/rtmp/control"
+	"github.com/kris-nova/rtmp/control"
 	"github.com/stretchr/testify/assert"
 )
 

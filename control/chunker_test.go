@@ -1,8 +1,8 @@
 package control_test
 
 import (
-	"github.com/WatchBeam/rtmp/chunk"
-	"github.com/WatchBeam/rtmp/control"
+	"github.com/kris-nova/rtmp/chunk"
+	"github.com/kris-nova/rtmp/control"
 	"github.com/stretchr/testify/mock"
 )
 

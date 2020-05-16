@@ -1,10 +1,10 @@
 package cmd
 
 import (
-	"github.com/WatchBeam/rtmp/chunk"
-	"github.com/WatchBeam/rtmp/cmd/conn"
-	"github.com/WatchBeam/rtmp/cmd/data"
-	"github.com/WatchBeam/rtmp/cmd/stream"
+	"github.com/kris-nova/rtmp/chunk"
+	"github.com/kris-nova/rtmp/cmd/conn"
+	"github.com/kris-nova/rtmp/cmd/data"
+	"github.com/kris-nova/rtmp/cmd/stream"
 )
 
 // Manager sits in front of all sub-packages of `cmd` and cleans up incoming

@@ -5,7 +5,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/WatchBeam/rtmp/cmd/stream"
+	"github.com/kris-nova/rtmp/cmd/stream"
 	"github.com/stretchr/testify/assert"
 )
 

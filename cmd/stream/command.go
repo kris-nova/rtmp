@@ -1,6 +1,6 @@
 package stream
 
-import "github.com/WatchBeam/amf0"
+import "github.com/kris-nova/amf0"
 
 // Type CommandHeader represents the command header belonging to commands shared
 // by the NetStream and NetConnection.

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/WatchBeam/rtmp/chunk"
+	"github.com/kris-nova/rtmp/chunk"
 )
 
 // UnknownControlType is an Error representing a scenario where an unknown

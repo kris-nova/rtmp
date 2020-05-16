@@ -1,6 +1,6 @@
 package conn
 
-import "github.com/WatchBeam/rtmp/chunk"
+import "github.com/kris-nova/rtmp/chunk"
 
 // Chunker is a functional interface designed to turn ConnSendable types into
 // RTMP `*chunk.Chunk`s.

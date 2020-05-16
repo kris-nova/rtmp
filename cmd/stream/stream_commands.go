@@ -1,6 +1,6 @@
 package stream
 
-import "github.com/WatchBeam/amf0"
+import "github.com/kris-nova/amf0"
 
 type (
 	CommandPlay struct {

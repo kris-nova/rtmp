@@ -3,9 +3,9 @@ package stream_test
 import (
 	"testing"
 
-	"github.com/WatchBeam/amf0"
-	"github.com/WatchBeam/rtmp/chunk"
-	"github.com/WatchBeam/rtmp/cmd/stream"
+	"github.com/kris-nova/amf0"
+	"github.com/kris-nova/rtmp/chunk"
+	"github.com/kris-nova/rtmp/cmd/stream"
 	"github.com/stretchr/testify/assert"
 )
 

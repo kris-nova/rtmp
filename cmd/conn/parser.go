@@ -3,7 +3,7 @@ package conn
 import (
 	"io"
 
-	"github.com/WatchBeam/amf0"
+	"github.com/kris-nova/amf0"
 )
 
 // Parser is a functional interface responsible for parsing a body of data out

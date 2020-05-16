@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/WatchBeam/rtmp/chunk"
+	"github.com/kris-nova/rtmp/chunk"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -5,8 +5,8 @@ import (
 	"io"
 	"testing"
 
-	"github.com/WatchBeam/amf0"
-	"github.com/WatchBeam/rtmp/cmd/conn"
+	"github.com/kris-nova/amf0"
+	"github.com/kris-nova/rtmp/cmd/conn"
 	"github.com/stretchr/testify/assert"
 )
 
